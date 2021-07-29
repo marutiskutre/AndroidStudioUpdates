@@ -25,7 +25,7 @@ All information is extracted from link https://developer.android.com/studio/rele
 <table>
 <p>
 New versioning format is explained below
-<p><b>**<Year of IntelliJ Version>.<IntelliJ major version>.<Studio major version>.<Studio minor/patch version>**</b>
+<p>U+003CYear of IntelliJ VersionU+003E.U+003CIntelliJ major versionU+003E.U+003CStudio major versionU+003E.U+003CStudio minor/patch versionU+003E</b>
 <p>
     * The first two number groups represent the version of the IntellIj platform that a particular Android Studio release is based on. For this release, it's version 2020.3.<br>
     * The third number group represents the Studio major version, starting at 1 and incrementing by one for every major release.<br>
