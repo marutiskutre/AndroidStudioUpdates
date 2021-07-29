@@ -2,17 +2,6 @@
 
 This document will explain updates to Android studio 203 below are some details.
 
-Android Studio Arctic Fox | 2020.3.1 <br>
-Build #AI-203.7717.56.2031.7583922, built on July 27, 2021<br>
-Runtime version: 11.0.10+0-b96-7281165 x86_64<br>
-VM: OpenJDK 64-Bit Server VM by JetBrains s.r.o. <br>
-macOS 10.15.7<br>
-GC: G1 Young Generation, G1 Old Generation<br>
-Memory: 2048M<br>
-Cores: 16<br>
-Registry: external.system.auto.import.disabled=true<br>
-Non-Bundled Plugins: PlantUML integration, com.intellij.marketplace, de.docs_as_co.intellij.plugin.diagramsnet, idea.plugin.protoeditor, org.mayevskiy.intellij.sonar, org.sonarlint.idea, com.thoughtworks.gauge, org.jetbrains.kotlin, org.asciidoctor.intellij.asciidoc, org.intellij.plugins.markdown<br>
-
 If you update your Android studio and look at about section you will see something like below
 <img src="AndroidStudio-about.png">
 All information is extracted from link https://developer.android.com/studio/releases#arctic-fox
