@@ -16,7 +16,7 @@ Non-Bundled Plugins: PlantUML integration, com.intellij.marketplace, de.docs_as_
 
 All information is extracted from link https://developer.android.com/studio/releases#arctic-fox
 
-Lets get started
+<h1>Lets get started<h1>
 1. version numbering has been changed to be in sync with intellij. This has no impact on developers but it will help developers who are using both Intellij and AndroidStudio to link the features.
 
 Intellij Version 	Old Name 	  Old - Number System 	New - Year System 	New Version Name
