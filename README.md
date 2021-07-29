@@ -13,7 +13,8 @@ Cores: 16<br>
 Registry: external.system.auto.import.disabled=true<br>
 Non-Bundled Plugins: PlantUML integration, com.intellij.marketplace, de.docs_as_co.intellij.plugin.diagramsnet, idea.plugin.protoeditor, org.mayevskiy.intellij.sonar, org.sonarlint.idea, com.thoughtworks.gauge, org.jetbrains.kotlin, org.asciidoctor.intellij.asciidoc, org.intellij.plugins.markdown<br>
 
-
+If you update your Android studio and look at about section you will see something like below
+<img src="AndroidStudio-about.png">
 All information is extracted from link https://developer.android.com/studio/releases#arctic-fox
 
 <h1>Lets get started</h1>
