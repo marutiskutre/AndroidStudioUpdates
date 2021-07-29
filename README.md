@@ -27,7 +27,9 @@ All information is extracted from link https://developer.android.com/studio/rele
 New versioning format is explained below
 <Year of IntelliJ Version>.<IntelliJ major version>.<Studio major version>.<Studio minor/patch version>
 <p>
-    * The first two number groups represent the version of the IntellIj platform that a particular Android Studio release is based on. For this release, it's version 2020.3.
-    * The third number group represents the Studio major version, starting at 1 and incrementing by one for every major release.
-    * The fourth number group represents the Studio minor/patch version, starting at 1 and incrementing by one for every minor release.
-    We are also giving each major release a version name, incrementing from A to Z based on animal names. This release is named Arctic Fox.
+    * The first two number groups represent the version of the IntellIj platform that a particular Android Studio release is based on. For this release, it's version 2020.3.<br>
+    * The third number group represents the Studio major version, starting at 1 and incrementing by one for every major release.<br>
+    * The fourth number group represents the Studio minor/patch version, starting at 1 and incrementing by one for every minor release.<br>
+   
+   
+   <b> We are also giving each major release a version name, incrementing from A to Z based on animal names. This release is named Arctic Fox.<br>
