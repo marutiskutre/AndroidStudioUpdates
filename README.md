@@ -2,10 +2,10 @@
 
 This document will explain updates to Android studio 203 below are some details.
 
-"Android Studio Arctic Fox | 2020.3.1
-Build #AI-203.7717.56.2031.7583922, built on July 27, 2021
-Runtime version: 11.0.10+0-b96-7281165 x86_64
-VM: OpenJDK 64-Bit Server VM by JetBrains s.r.o.
+"Android Studio Arctic Fox | 2020.3.1\n
+Build #AI-203.7717.56.2031.7583922, built on July 27, 2021\n
+Runtime version: 11.0.10+0-b96-7281165 x86_64\n
+VM: OpenJDK 64-Bit Server VM by JetBrains s.r.o. \n
 macOS 10.15.7
 GC: G1 Young Generation, G1 Old Generation
 Memory: 2048M
