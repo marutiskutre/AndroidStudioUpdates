@@ -20,7 +20,7 @@ All information is extracted from link https://developer.android.com/studio/rele
 <p>1. version numbering has been changed to be in sync with intellij. This has no impact on developers but it will help developers who are using both Intellij and AndroidStudio to link the features.
 <p>
    <table>
-      <th><td>Intellij Version</td><td> 	Old Name 	</td><td>  Old - Number System</td><td> 	New - Year System</td><td> 	New Version Name</td></th>
+      <tr><td>Intellij Version</td><td> 	Old Name 	</td><td>  Old - Number System</td><td> 	New - Year System</td><td> 	New Version Name</td></tr>
       <tr><td>  2020.3 </td><td>          4.3 </td><td>	      4.3.0 </td><td>	              2020.3.1 	</td><td>          Arctic Fox | 2020.3.1</td></tr>
 <table>
 <p>
